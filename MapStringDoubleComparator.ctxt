@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MapStringDoubleComparator
+comment1.params=base
+comment1.target=MapStringDoubleComparator(java.util.Map)
+comment2.params=a\ b
+comment2.target=int\ compare(java.lang.Object,\ java.lang.Object)
+numComments=3

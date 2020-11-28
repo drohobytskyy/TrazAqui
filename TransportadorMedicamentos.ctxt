@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TransportadorMedicamentos
+comment0.text=\n\n\n\ @author\ Artur\ Drohobytskyy\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=boolean\ aceitoTransporteMedicamentos()
+comment2.params=state
+comment2.target=void\ aceitaMedicamentos(boolean)
+numComments=3

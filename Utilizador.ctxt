@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Utilizador
+comment0.text=\n\ \n\n\ @author\ Artur\ Drohobytskyy\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=Utilizador()
+comment2.params=codigo\ nome\ gps\ email\ password
+comment2.target=Utilizador(java.lang.String,\ java.lang.String,\ GPS,\ java.lang.String,\ java.lang.String)
+comment3.params=u
+comment3.target=Utilizador(Utilizador)
+comment4.params=obj
+comment4.target=boolean\ equals(java.lang.Object)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=Utilizador\ clone()
+numComments=7

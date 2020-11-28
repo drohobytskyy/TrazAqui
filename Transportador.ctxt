@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Transportador
+comment0.text=\n\ \n\n\ @author\ Artur\ Drohobytskyy\n\ @version\ 1.0\n
+comment1.params=
+comment1.target=boolean\ disponivelParaTransporte()
+comment2.params=disponivel
+comment2.target=void\ setDisponibilidade(boolean)
+comment3.params=distancia\ duracao
+comment3.target=double\ calculaCustoTransporte(double,\ double)
+numComments=4
